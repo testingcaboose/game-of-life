@@ -503,11 +503,11 @@
             <url>https://se2-sandbox.sec.c3sys.army.mil/nexus/repository/maven-releases/</url>
         </repository>
         
-        <repository>
+        <snapshotRepository>
             <id>maven-snapshots</id>
             <name>maven-snapshots</name>
             <url>https://se2-sandbox.sec.c3sys.army.mil/nexus/repository/maven-snapshots/</url>
-        </repository>
+        </snapshotRepository>
         
     </distributionManagement>
 </project>
