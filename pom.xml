@@ -22,9 +22,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://1380103806%40mil@tools.sec.c3sys.army.mil/bitbucket/scm/se2/se2-build.git</connection>
-        <developerConnection>scm:git:https://1380103806%40mil@tools.sec.c3sys.army.mil/bitbucket/scm/se2/se2-build.git</developerConnection>
-        <url>scm:git:https://1380103806%40mil@tools.sec.c3sys.army.mil/bitbucket/scm/se2/se2-build.git</url>
+        <connection>scm:git:git@github.com:${github.account}/game-of-life.git</connection>
+        <developerConnection>scm:git:git@github.com:${github.account}/game-of-life.git</developerConnection>
+        <url>scm:git:git@github.com:${github.account}/game-of-life.git</url>
     </scm>
     <build>
         <plugins>
