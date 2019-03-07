@@ -515,14 +515,14 @@
     <distributionManagement>
         
         <repository>
-            <id>maven-releases</id>
-            <name>maven-releases</name>
+            <id>nexus-releases</id>
+            <name>nexus-releases</name>
             <url>https://se2-sandbox.sec.c3sys.army.mil/nexus/repository/maven-releases/</url>
         </repository>
         
         <snapshotRepository>
-            <id>maven-snapshots</id>
-            <name>maven-snapshots</name>
+            <id>nexus-snapshots</id>
+            <name>nexus-snapshots</name>
             <url>https://se2-sandbox.sec.c3sys.army.mil/nexus/repository/maven-snapshots/</url>
         </snapshotRepository>
         
