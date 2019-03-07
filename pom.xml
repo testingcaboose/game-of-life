@@ -522,7 +522,7 @@
         </repository>
         
         <snapshotRepository>
-            <id>nexus-snapshots</id>
+            <id>nexus</id>
             <name>nexus-snapshots</name>
             <url>https://se2-sandbox.sec.c3sys.army.mil/nexus/repository/maven-snapshots/</url>
         </snapshotRepository>
