@@ -47,7 +47,7 @@
                      <goal>pdf</goal>
                     </goals>
                     <configuration>
-                     <ouputDirectory>${project.reporting.outputDirectory}</outputDirectory>
+                        <ouputDirectory>${project.reporting.outputDirectory}</outputDirectory>
                      <includeReports>false</includeReports>
                     </configuration>
                   </execution>
