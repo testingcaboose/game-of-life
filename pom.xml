@@ -498,13 +498,13 @@
         <repository>
             <id>nexus-releases</id>
             <name>nexus-releases</name>
-            <url>https://se2-sandbox.sec.c3sys.army.mil/nexus/repository/maven-releases/</url>
+            <url>https://se2-sandbox.sec.c3sys.army.mil:8081/nexus/repository/maven-releases/</url>
         </repository>
         
         <snapshotRepository>
             <id>nexus</id>
             <name>nexus-snapshots</name>
-            <url>https://se2-sandbox.sec.c3sys.army.mil/nexus/repository/maven-snapshots/</url>
+            <url>https://se2-sandbox.sec.c3sys.army.mil:8081/nexus/repository/maven-snapshots/</url>
         </snapshotRepository>
         
     </distributionManagement>
