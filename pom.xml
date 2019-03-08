@@ -518,13 +518,13 @@
         <repository>
             <id>nexus-releases</id>
             <name>nexus-releases</name>
-            <url>https://se2-sandbox.sec.c3sys.army.mil/nexus/repository/maven-releases/</url>
+            <url>128.47.145.44:9000/nexus/repository/maven-releases/</url>
         </repository>
         
         <snapshotRepository>
             <id>nexus</id>
             <name>nexus-snapshots</name>
-            <url>https://se2-sandbox.sec.c3sys.army.mil/nexus/repository/maven-snapshots/</url>
+            <url>128.47.145.44:9000/nexus/repository/maven-snapshots/</url>
         </snapshotRepository>
         
     </distributionManagement>
