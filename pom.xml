@@ -58,7 +58,7 @@
                 <artifactId>surefire</artifactId>
                 <version>1.4</version>
                 <configuration>
-                    <skip>true</skip>
+                    <skip>false</skip>
                 </configuration>
                 <executions>
                     <execution>
